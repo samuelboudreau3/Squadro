@@ -1,27 +1,12 @@
-# Squadro - Phase 2
+# Squadro
 
 [<img src="https://www.randolph.ca/wp-content/uploads/2019/01/squadro_400x400_acf_cropped.jpg" style="display: block; margin-left: auto; margin-right: auto;" alt="Squadro" width="50%" height="auto">](https://www.youtube.com/watch?v=FQtM65YI8-o)
-
-## Objectifs
-
-Pour ce deuxième projet, vous aurez à créer une classe pour encapsuler le jeu Squadro. Vous aurez à réutiliser certain segment de code de votre module squadro.py.
 
 ## Prérequis
 
 - [Git](https://git-scm.com/downloads/)
 - [Python pour macOS](https://www.python.org/downloads/), [Python pour Windows](https://www.microsoft.com/fr-ca/p/python-39/9p7qfqmjrfp7)
 - [VS Code](https://code.visualstudio.com/download/)
-
-## Extension VS Code
-
-Voici la liste des extensions **VS Code** que nous vous conseillons d'ajouter à votre configuration:
-
-- Python (celui de Microsoft)
-- GitLens $-$ Git supercharged
-- Bracket Pair Colorizer 2
-- indent-rainbow
-- Live Share (*Pour le dépannage en ligne*)
-- Live Share Extension Pack (*Pour le dépannage en ligne*)
 
 ## Commandes utile
 
@@ -151,6 +136,4 @@ L'état du jeux est représenté par une liste de 2 dictionnaires:
 
 ## Liens utile
 
-- [Aide-mémoire Github Git](https://github.github.com/training-kit/downloads/fr/github-git-cheat-sheet.pdf)
-- [Documentation Pytest](https://docs.pytest.org/en/latest/) [en anglais]
 - [Vidéo expliquant les règles du jeu Squadro](https://www.youtube.com/watch?v=FQtM65YI8-o) [en anglais]
