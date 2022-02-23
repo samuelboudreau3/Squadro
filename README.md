@@ -1,4 +1,4 @@
-# Squadro
+# Squadro - Samuel Boudreau et Adam Bissonnette
 
 [<img src="https://www.randolph.ca/wp-content/uploads/2019/01/squadro_400x400_acf_cropped.jpg" style="display: block; margin-left: auto; margin-right: auto;" alt="Squadro" width="50%" height="auto">](https://www.youtube.com/watch?v=FQtM65YI8-o)
 
