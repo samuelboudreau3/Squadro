@@ -1,0 +1,11 @@
+# Ignorer l'entièreté des fichiers/dossiers
+/**/*
+
+# Ne PAS ignorer les fichiers Python et autre fichier important
+!/api.py
+!/main.py
+!/test.py
+!/README.md
+!/squadro.py
+!/squadro_interface.py
+!/.gitignore
